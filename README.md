@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @juliedon
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning cloud computing 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy coding 
+Hi, I’m Juliet
+🚀 Passionate Android developer
+☁️ Currently diving into AWS cloud computing
+🌐 Exploring web development
+🤝 Looking to collaborate on exciting projects
+📫 How to reach me: njagijuliet02@gmail.com
+ Pronouns: she/her
+⚡ Fun fact: I enjoy experimenting with new recipes and creating delicious meals in my own space. 
+
+
 
 <!---
 juliedon/juliedon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
